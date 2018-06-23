@@ -6,6 +6,8 @@ This script requires a Shodan API key. Once that's added, the script will genera
 This version currently only pulls the "minify=True" results--basically the location and general information. Later versions should figure out a way to display the juicier details.
 
 Usage:
-Download, mark as executable or invoke with python3: 
+Download, add Shodan API key, and mark as executable or invoke with python3: 
+```
 ./shodan_roulette.py
 python3 shodan_roulette.py
+```
